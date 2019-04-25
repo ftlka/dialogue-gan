@@ -1,1 +1,4 @@
 tensorboard
+.idea
+*.txt
+gen_data
