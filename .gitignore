@@ -2,3 +2,4 @@ tensorboard
 .idea
 *.txt
 gen_data
+disc_data
